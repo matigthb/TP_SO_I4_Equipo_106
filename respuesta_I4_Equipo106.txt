@@ -1,0 +1,14 @@
+ALFA: Lucas Torres
+BETA: Porfirio Thiago
+GAMMA: Horisberger Matías
+
+A- ¿Qué color de fondo tiene su página en el TESTING ?
+B- ¿Qué color de fondo tiene su página en el DESARROLLO ?
+C- ¿Qué color de fondo tiene su página en el MASTER?
+D- ¿Qué favicon quedó en el MASTER el de ALFA o el de BETA?
+
+A- En la branch TESTING, la página tiene fondo Azul.
+B- En la branch DESARROLLO, la página tiene fondo Amarillo.
+C- En la branch main, la página tiene fondo Amarillo.
+D- Quedó en el main el favicon agregado por BETA.
+

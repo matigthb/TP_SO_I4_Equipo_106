@@ -12,3 +12,18 @@ B- En la branch DESARROLLO, la página tiene fondo Amarillo.
 C- En la branch main, la página tiene fondo Amarillo.
 D- Quedó en el main el favicon agregado por BETA.
 
+
+E- ¿Algún integrante tuvo problemas al hacer el push?
+F- ¿Qué problemas surgieron?
+G- ¿Qué soluciones pueden aplicar y cual seria la consecuencia de cada solución
+adoptada?
+H- ¿Qué sucede si cada uno utiliza el push -f?
+I- ¿Qué debo hacer para que el index.html tengas todos los <p> de los puntos 18,19 y 20
+en DESARROLLO ?
+
+E- Beta y Gamma tuvieron problemas al hacer el push, pero fueron solucionados rápidamente y de forma efectiva.
+F- Un conflicto de merge, existía una disparidad entre el repositorio local y el repositorio remoto, se quería actualizar el repositorio remoto 
+sin que el local se encuentre en la ultima versión del remoto.
+G- La solución que implementamos fue primero hacer el pull desde la rama TESTING y luego hacer el push a la misma con los datos que se querían actualizar.
+H- Si se utiliza el push -f (force), este ignora cualquier tipo de conflicto, como los de merge, a la hora de hacer el push y procede con la actualización de archivos.
+I- Hacer los push en orden y en el medio ir haciendo los pull.
